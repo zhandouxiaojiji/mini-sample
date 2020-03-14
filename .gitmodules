@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:zhandouxiaojiji/bamboo-sample.git
+[submodule "server"]
+	path = server
+	url = git@github.com:zhandouxiaojiji/bewater-sample.git
