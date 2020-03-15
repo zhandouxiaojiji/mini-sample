@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:zhandouxiaojiji/bewater-sample.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:zhandouxiaojiji/bamboo-tools.git
