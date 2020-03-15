@@ -2,11 +2,11 @@
 本项目主要用于展示服务端框架bewater和客户端框架bamboo的使用示例
 
 # 框架与技术栈
-客户端: Cocos Creator, Typescript, Bamboo
-服务端: skynet, lua, bewater, mongodb
-管理后台: ant-design, umi, dva, Typescript
-导表: python, xlrd
-网络通讯: Http, WebSocket
++ 客户端: Cocos Creator, Typescript, Bamboo
++ 服务端: skynet, lua, bewater, mongodb
++ 管理后台: ant-design, umi, dva, Typescript
++ 导表: python, xlrd
++ 网络通讯: Http, WebSocket
 
 # 目录与submodule
 + client -> 客户端示例 bamboo-sample
