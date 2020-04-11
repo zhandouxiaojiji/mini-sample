@@ -9,8 +9,8 @@
 + 网络通讯: Http, WebSocket
 
 # 目录与submodule
-+ client -> 客户端示例 bamboo-sample
-+ server -> 服务端示例 bewater-sample
++ client -> 客户端示例 [bamboo-sample](https://github.com/zhandouxiaojiji/bamboo-sample)
++ server -> 服务端示例 [bewater-sample](https://github.com/zhandouxiaojiji/bewater-sample)
 + cms -> 后台管理示例 bewater-cms-sample
 + tools -> 导表工具
 + excel -> 配置表
