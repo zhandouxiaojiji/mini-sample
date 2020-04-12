@@ -1,5 +1,5 @@
 # 小游戏项目
-本项目主要用于展示服务端框架bewater和客户端框架bamboo的使用示例
+本项目主要用于展示服务端框架[bewater](https://github.com/zhandouxiaojiji/bewater)和客户端框架[bamboo](https://github.com/zhandouxiaojiji/bamboo)的使用示例
 
 # 框架与技术栈
 + 客户端: Cocos Creator, Typescript, Bamboo
