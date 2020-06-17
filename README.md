@@ -13,7 +13,8 @@
 + server -> 服务端示例 [bewater-sample](https://github.com/zhandouxiaojiji/bewater-sample)
 + cms -> 后台管理示例 bewater-cms-sample
 + tools -> 导表工具
-+ excel -> 配置表
++ common/excel -> 配置表
++ common/proto -> protobuf定义
 
 # TODO
 + 原生socket+protobuf示例
