@@ -1,2 +1,3 @@
-pbjs -t static-module -w commonjs -o proto.js proto/*.proto
-pbts -o ../client/proto.d.ts proto.js
+pbjs -t static-module -w commonjs -o ../client/assets/script/Def/proto.js proto/*.proto
+pbts -o ../client/assets/script/Def/proto.d.ts ../client/assets/script/Def/proto.js
+cp -f ./proto/* ../server/lualib/def/proto

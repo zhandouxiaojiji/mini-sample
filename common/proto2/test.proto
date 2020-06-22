@@ -1,0 +1,10 @@
+syntax = "proto3";
+package test;
+
+message c2s_hello {
+  string text = 1;
+};
+
+message s2c_hello {
+  int32 err = 1;
+};
